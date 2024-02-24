@@ -1,0 +1,5 @@
+MathFunc	KEYWORD1
+power	KEYWORD2
+Add2_Int_Array	KEYWORD2
+Multiply2_Int_Array	KEYWORD2
+delayIn_Second	KEYWORD2		
